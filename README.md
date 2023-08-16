@@ -1,7 +1,7 @@
 # Quizmify
 
 <p align="center">
-<img alt='/' src="/public/images/quizmify.jpg" width="900px" height="auto"/>
+<img alt='/' src="/public/quizmify.jpg" width="900px" height="auto"/>
 </p>
 
 Key Features:
